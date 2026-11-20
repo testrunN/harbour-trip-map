@@ -1,1 +1,1 @@
-{"searchEndpoint":"https://nominatim.openstreetmap.org/search","tileUrl":"https://tile.openstreetmap.org/{z}/{x}/{y}.png","mapStyles":{"color":{"label":"컬러 지도","url":"https://tiles.openfreemap.org/styles/liberty"}}}
+{"searchEndpoint":"https://nominatim.openstreetmap.org/search","tileUrl":"https://tile.openstreetmap.org/{z}/{x}/{y}.png","mapStyles":{"color":{"label":"컬러 지도","url":"https://tiles.openfreemap.org/styles/liberty"}},"syncEndpoint":"https://harbour-trip-shared.harbour-trip-duo-c8e5.workers.dev"}
